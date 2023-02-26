@@ -1,4 +1,4 @@
-
+#to find the square root of first and last digits of a number
 import math
 
 n = int(input("Enter a number: "))

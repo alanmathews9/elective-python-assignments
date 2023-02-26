@@ -1,3 +1,4 @@
+#to check if a number is a power of 2
 def is_power_of_two(n):
     if n <= 0:
         return False

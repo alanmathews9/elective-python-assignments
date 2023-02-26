@@ -1,4 +1,4 @@
-
+#to convert total seconds to hour minute second format
 time_in_seconds = int(input("Enter the time in seconds: "))
 hours = time_in_seconds // 3600
 minutes = (time_in_seconds % 3600) // 60

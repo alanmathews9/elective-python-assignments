@@ -1,4 +1,4 @@
-
+#to find dec binary and oct equivalent of hexa number
 hex_number = input("Enter a hexadecimal number: ")
 dec_number = int(hex_number, 16)
 bin_number = bin(dec_number)

@@ -1,4 +1,4 @@
-
+#to find last 2 digits of phone number and find its vinary octal and hexa representations
 phone_number = input("Enter your phone number: ")
 last_two_digits = phone_number[-2:]
 binary = bin(int(last_two_digits))

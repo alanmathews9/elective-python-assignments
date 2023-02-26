@@ -1,3 +1,4 @@
+#to find details of a cordinate
 x = float(input("Enter the x-coordinate of the point: "))
 y = float(input("Enter the y-coordinate of the point: "))
 

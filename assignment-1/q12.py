@@ -1,3 +1,4 @@
+#to find absolute value of a number
 def absolute_value(n):
     if n < 0:
         return -n

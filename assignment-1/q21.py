@@ -1,5 +1,4 @@
-
-
+#to find the binary equivalent of a number
 num = int(input("Enter a number: "))
 
 for digit in str(num):

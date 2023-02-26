@@ -1,5 +1,4 @@
-
-
+#to print all prime number less than 100
 def is_prime(num):
     if num < 2:
         return False

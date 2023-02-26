@@ -1,4 +1,4 @@
-# Check if the number is an Armstrong number
+# to check if the number is an Armstrong number
 num = int(input("Enter a 3-digit number: "))
 
 

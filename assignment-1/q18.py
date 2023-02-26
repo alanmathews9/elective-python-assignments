@@ -1,4 +1,4 @@
-
+#to check if a number is a krishnamurthi number
 def factorial(num):
     if num == 0 or num == 1:
         return 1

@@ -1,5 +1,5 @@
 import math
-
+#tofind the roots of a quadratic equation
 a = float(input("Enter the coefficient of x^2 (a): "))
 b = float(input("Enter the coefficient of x (b): "))
 c = float(input("Enter the constant term (c): "))

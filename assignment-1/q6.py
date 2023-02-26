@@ -1,3 +1,4 @@
+#to find are of circle using points
 import math
 xc = float(input("Enter the x-coordinate of the center: "))
 yc = float(input("Enter the y-coordinate of the center: "))
