@@ -1,3 +1,4 @@
+#largest digit from a number
 num = input("Enter a number: ")
 temp = int(num)
 largest = 0
