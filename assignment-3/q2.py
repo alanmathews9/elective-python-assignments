@@ -1,3 +1,5 @@
+# 2. Read list of numbers and store it in a list. Create two new lists from the list created which contains
+# prime and composite numbers.
 l=[]
 n=int(input("Enter the number of elements in the list: "))
 for x in range(n):

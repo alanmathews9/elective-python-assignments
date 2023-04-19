@@ -1,3 +1,4 @@
+# 8.Read a string and print the words and its legth.Also find the average word length.
 str=input("Enter the string: ")
 words=str.split(" ")
 sum=0

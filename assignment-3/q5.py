@@ -1,3 +1,6 @@
+# 5. Read 10 numbers and stores it in a tuple. Find the sum, average of these elements also find the
+# largest and smallest.
+
 l=[]
 for i in range(10):
     num=int(input("no: "))

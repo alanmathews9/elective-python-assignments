@@ -1,9 +1,8 @@
+# 10. Consider a list consisting of integers, floating point numbers and strings. Separate them into
 my_list = [1, 2.5, "hello", 4, "world", 3.14]
-
 int_list = []
 float_list = []
 str_list = []
-
 for item in my_list:
     if isinstance(item, int):
         int_list.append(item)
